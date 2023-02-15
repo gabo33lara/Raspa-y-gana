@@ -1,0 +1,31 @@
+.scratchpad-wrapper {
+    width: 50%;
+    user-select: none;
+}
+
+.ScratchCard__Container {
+    margin: auto;
+}
+
+.ScratchCard__Canvas {
+    left: 0;
+}
+
+.img {
+    width: 100%;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+@media (min-width: 320px) and (max-width: 598px) {
+    .scratchpad-wrapper {
+      width: 100%;
+      height: 50vh;
+    }
+}
+
+@media (min-width: 600px) and (max-width: 991px) {
+    .scratchpad-wrapper {
+        width: 100%;
+        height: 50vh;
+    }
+}
