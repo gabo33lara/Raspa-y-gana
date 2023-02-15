@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Raspa-y-gana/static/css/main.bba64380.css",
+    "main.js": "/Raspa-y-gana/static/js/main.77e6eb8f.js",
+    "static/media/golden-gift.jpg": "/Raspa-y-gana/static/media/golden-gift.ec61128ee8b2ef467e5a.jpg",
+    "static/media/abuelo.jpg": "/Raspa-y-gana/static/media/abuelo.56787d5f7b7db3e8c3f8.jpg",
+    "index.html": "/Raspa-y-gana/index.html",
+    "main.bba64380.css.map": "/Raspa-y-gana/static/css/main.bba64380.css.map",
+    "main.77e6eb8f.js.map": "/Raspa-y-gana/static/js/main.77e6eb8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bba64380.css",
+    "static/js/main.77e6eb8f.js"
+  ]
+}
